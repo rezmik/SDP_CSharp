@@ -4,3 +4,9 @@ C:\Users\piotr.wilczak\Documents\Visual Studio 2015\Projects\SDP\SDP.CSharp\SDP.
 C:\Users\piotr.wilczak\Documents\Visual Studio 2015\Projects\SDP\SDP.CSharp\SDP.CSharp.Excercise2.ReferenceAndValueTpes\obj\Debug\SDP.CSharp.Excercise2.ReferenceAndValueTypes.csprojResolveAssemblyReference.cache
 C:\Users\piotr.wilczak\Documents\Visual Studio 2015\Projects\SDP\SDP.CSharp\SDP.CSharp.Excercise2.ReferenceAndValueTpes\obj\Debug\SDP.CSharp.Excercise2.ReferenceAndValueTpes.exe
 C:\Users\piotr.wilczak\Documents\Visual Studio 2015\Projects\SDP\SDP.CSharp\SDP.CSharp.Excercise2.ReferenceAndValueTpes\obj\Debug\SDP.CSharp.Excercise2.ReferenceAndValueTpes.pdb
+C:\Users\Kuba\Downloads\SDP.CSharp\SDP.CSharp\SDP.CSharp.Excercise2.ReferenceAndValueTpes\bin\Debug\SDP.CSharp.Excercise2.ReferenceAndValueTpes.exe.config
+C:\Users\Kuba\Downloads\SDP.CSharp\SDP.CSharp\SDP.CSharp.Excercise2.ReferenceAndValueTpes\bin\Debug\SDP.CSharp.Excercise2.ReferenceAndValueTpes.exe
+C:\Users\Kuba\Downloads\SDP.CSharp\SDP.CSharp\SDP.CSharp.Excercise2.ReferenceAndValueTpes\bin\Debug\SDP.CSharp.Excercise2.ReferenceAndValueTpes.pdb
+C:\Users\Kuba\Downloads\SDP.CSharp\SDP.CSharp\SDP.CSharp.Excercise2.ReferenceAndValueTpes\obj\Debug\SDP.CSharp.Excercise2.ReferenceAndValueTypes.csprojResolveAssemblyReference.cache
+C:\Users\Kuba\Downloads\SDP.CSharp\SDP.CSharp\SDP.CSharp.Excercise2.ReferenceAndValueTpes\obj\Debug\SDP.CSharp.Excercise2.ReferenceAndValueTpes.exe
+C:\Users\Kuba\Downloads\SDP.CSharp\SDP.CSharp\SDP.CSharp.Excercise2.ReferenceAndValueTpes\obj\Debug\SDP.CSharp.Excercise2.ReferenceAndValueTpes.pdb

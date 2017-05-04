@@ -93,6 +93,7 @@ namespace SDP.CSharp.Excercise3.IEnumerable
                     // output "item" information to console
                     Console.WriteLine("Name: {0}, Age: {1}, IQ: {2}", item.Name, item.Age, item.Iq);
                 }
+                Console.WriteLine();
             }
             catch (NotImplementedException)
             {

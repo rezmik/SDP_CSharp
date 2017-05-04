@@ -29,15 +29,27 @@ namespace SDP.CSharp.Excercise1.GarbageCollection
 
                 // TODO: Excercise 1
                 // Are p1 and p2 the same by reference? Why?
+                if (Object.ReferenceEquals(p1, p2))
+                {
+                    Console.WriteLine("p1 and p2 are the same");
+                } else
+                {
+                    Console.WriteLine("p1 and p2 aren't the same");
+                }
+                // p1 and p2 aren't the same
             }
 
-            using (var fileResource = new FileResource())
+            /*using (var fileResource = new FileResource())
             {
                 fileResource.WriteToFile("Some string");
-            }
+            }*/
 
             // TODO: Excercise 2
             // Transform code above in such way that "using" statement is not used but objects are still properly disposed.
+
+            FileResource fileResource = new FileResource();
+            fileResource.WriteToFile("SomeString");
+            fileResource.Dispose();
 
             Console.ReadLine();
         }

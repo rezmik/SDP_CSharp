@@ -36,5 +36,13 @@
         {
             get; set;
         }
+
+        /// <summary>
+        /// Gets or sets person's number of vowels in name
+        /// </summary>
+        public int NumberOfVowels
+        {
+            get; set;
+        }
     }
 }
