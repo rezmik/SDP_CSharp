@@ -31,6 +31,16 @@ namespace SDP.CSharp.Excercise4.AnonymousTypesAndLambdas.Model
             {
                 // split line by "|" character
                 var splittedRow = o.Split('|');
+                
+                int numberOfVowels = 0;
+
+                for (int i = 0; i < splittedRow[0].Length; i++)
+                {
+                    if (splittedRow[0][i] == 'a' || splittedRow[0][i] == 'e' || splittedRow[0][i] == 'i' || splittedRow[0][i] == 'o' || splittedRow[0][i] == 'u')
+                    {
+                        numberOfVowels++;
+                    }
+                }
 
                 // return new instance of Person
                 return new Person
@@ -39,6 +49,7 @@ namespace SDP.CSharp.Excercise4.AnonymousTypesAndLambdas.Model
                     City = splittedRow[1],
                     SignInDate = splittedRow[2],
                     Company = splittedRow[3],
+                    NumberOfVowels = numberOfVowels,
                 };
             });
         }

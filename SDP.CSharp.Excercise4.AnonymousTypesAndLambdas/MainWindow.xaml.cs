@@ -15,5 +15,10 @@ namespace SDP.CSharp.Excercise4.AnonymousTypesAndLambdas
             // create and assign view model instance to the window's data context on Loaded event 
             Loaded += (s,e) => DataContext = new TreeViewViewModel();
         }
+
+        private void GroupDate_Checked(object sender, RoutedEventArgs e)
+        {
+
+        }
     }
 }

@@ -15,6 +15,9 @@
         ByDate,
 
         // grouping by company is selected
-        ByCompany
+        ByCompany,
+
+        // grouping by number of vowels selected
+        ByNumberOfVowels
     }
 }

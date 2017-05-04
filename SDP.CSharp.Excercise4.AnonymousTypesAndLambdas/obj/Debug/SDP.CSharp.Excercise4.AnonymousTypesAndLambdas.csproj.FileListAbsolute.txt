@@ -27,3 +27,32 @@ C:\Users\piotr.wilczak\Documents\Visual Studio 2015\Projects\SDP\SDP.CSharp\SDP.
 C:\Users\piotr.wilczak\Documents\Visual Studio 2015\Projects\SDP\SDP.CSharp\SDP.CSharp.Excercise4.AnonymousTypesAndLambdas\obj\Debug\SDP.CSharp.Excercise4.AnonymousTypesAndLambdas.csproj.GenerateResource.Cache
 C:\Users\piotr.wilczak\Documents\Visual Studio 2015\Projects\SDP\SDP.CSharp\SDP.CSharp.Excercise4.AnonymousTypesAndLambdas\obj\Debug\SDP.CSharp.Excercise4.AnonymousTypesAndLambdas.exe
 C:\Users\piotr.wilczak\Documents\Visual Studio 2015\Projects\SDP\SDP.CSharp\SDP.CSharp.Excercise4.AnonymousTypesAndLambdas\obj\Debug\SDP.CSharp.Excercise4.AnonymousTypesAndLambdas.pdb
+C:\Users\Kuba\Downloads\SDP.CSharp\SDP.CSharp\SDP.CSharp.Excercise4.AnonymousTypesAndLambdas\bin\Debug\SDP.CSharp.Excercise4.AnonymousTypesAndLambdas.exe.config
+C:\Users\Kuba\Downloads\SDP.CSharp\SDP.CSharp\SDP.CSharp.Excercise4.AnonymousTypesAndLambdas\bin\Debug\SDP.CSharp.Excercise4.AnonymousTypesAndLambdas.exe
+C:\Users\Kuba\Downloads\SDP.CSharp\SDP.CSharp\SDP.CSharp.Excercise4.AnonymousTypesAndLambdas\bin\Debug\SDP.CSharp.Excercise4.AnonymousTypesAndLambdas.pdb
+C:\Users\Kuba\Downloads\SDP.CSharp\SDP.CSharp\SDP.CSharp.Excercise4.AnonymousTypesAndLambdas\bin\Debug\GalaSoft.MvvmLight.dll
+C:\Users\Kuba\Downloads\SDP.CSharp\SDP.CSharp\SDP.CSharp.Excercise4.AnonymousTypesAndLambdas\bin\Debug\GalaSoft.MvvmLight.Extras.dll
+C:\Users\Kuba\Downloads\SDP.CSharp\SDP.CSharp\SDP.CSharp.Excercise4.AnonymousTypesAndLambdas\bin\Debug\GalaSoft.MvvmLight.Platform.dll
+C:\Users\Kuba\Downloads\SDP.CSharp\SDP.CSharp\SDP.CSharp.Excercise4.AnonymousTypesAndLambdas\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\Kuba\Downloads\SDP.CSharp\SDP.CSharp\SDP.CSharp.Excercise4.AnonymousTypesAndLambdas\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Kuba\Downloads\SDP.CSharp\SDP.CSharp\SDP.CSharp.Excercise4.AnonymousTypesAndLambdas\bin\Debug\GalaSoft.MvvmLight.pdb
+C:\Users\Kuba\Downloads\SDP.CSharp\SDP.CSharp\SDP.CSharp.Excercise4.AnonymousTypesAndLambdas\bin\Debug\GalaSoft.MvvmLight.xml
+C:\Users\Kuba\Downloads\SDP.CSharp\SDP.CSharp\SDP.CSharp.Excercise4.AnonymousTypesAndLambdas\bin\Debug\GalaSoft.MvvmLight.Extras.pdb
+C:\Users\Kuba\Downloads\SDP.CSharp\SDP.CSharp\SDP.CSharp.Excercise4.AnonymousTypesAndLambdas\bin\Debug\GalaSoft.MvvmLight.Extras.xml
+C:\Users\Kuba\Downloads\SDP.CSharp\SDP.CSharp\SDP.CSharp.Excercise4.AnonymousTypesAndLambdas\bin\Debug\GalaSoft.MvvmLight.Platform.pdb
+C:\Users\Kuba\Downloads\SDP.CSharp\SDP.CSharp\SDP.CSharp.Excercise4.AnonymousTypesAndLambdas\bin\Debug\GalaSoft.MvvmLight.Platform.xml
+C:\Users\Kuba\Downloads\SDP.CSharp\SDP.CSharp\SDP.CSharp.Excercise4.AnonymousTypesAndLambdas\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\Kuba\Downloads\SDP.CSharp\SDP.CSharp\SDP.CSharp.Excercise4.AnonymousTypesAndLambdas\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\Users\Kuba\Downloads\SDP.CSharp\SDP.CSharp\SDP.CSharp.Excercise4.AnonymousTypesAndLambdas\obj\Debug\SDP.CSharp.Excercise4.AnonymousTypesAndLambdas.csprojResolveAssemblyReference.cache
+C:\Users\Kuba\Downloads\SDP.CSharp\SDP.CSharp\SDP.CSharp.Excercise4.AnonymousTypesAndLambdas\obj\Debug\MainWindow.g.cs
+C:\Users\Kuba\Downloads\SDP.CSharp\SDP.CSharp\SDP.CSharp.Excercise4.AnonymousTypesAndLambdas\obj\Debug\App.g.cs
+C:\Users\Kuba\Downloads\SDP.CSharp\SDP.CSharp\SDP.CSharp.Excercise4.AnonymousTypesAndLambdas\obj\Debug\SDP.CSharp.Excercise4.AnonymousTypesAndLambdas_MarkupCompile.cache
+C:\Users\Kuba\Downloads\SDP.CSharp\SDP.CSharp\SDP.CSharp.Excercise4.AnonymousTypesAndLambdas\obj\Debug\SDP.CSharp.Excercise4.AnonymousTypesAndLambdas_MarkupCompile.lref
+C:\Users\Kuba\Downloads\SDP.CSharp\SDP.CSharp\SDP.CSharp.Excercise4.AnonymousTypesAndLambdas\obj\Debug\App.baml
+C:\Users\Kuba\Downloads\SDP.CSharp\SDP.CSharp\SDP.CSharp.Excercise4.AnonymousTypesAndLambdas\obj\Debug\MainWindow.baml
+C:\Users\Kuba\Downloads\SDP.CSharp\SDP.CSharp\SDP.CSharp.Excercise4.AnonymousTypesAndLambdas\obj\Debug\SDP.CSharp.Excercise4.AnonymousTypesAndLambdas.g.resources
+C:\Users\Kuba\Downloads\SDP.CSharp\SDP.CSharp\SDP.CSharp.Excercise4.AnonymousTypesAndLambdas\obj\Debug\SDP.CSharp.Excercise4.AnonymousTypesAndLambdas.Properties.Resources.resources
+C:\Users\Kuba\Downloads\SDP.CSharp\SDP.CSharp\SDP.CSharp.Excercise4.AnonymousTypesAndLambdas\obj\Debug\SDP.CSharp.Excercise4.AnonymousTypesAndLambdas.Resources.Resources.resources
+C:\Users\Kuba\Downloads\SDP.CSharp\SDP.CSharp\SDP.CSharp.Excercise4.AnonymousTypesAndLambdas\obj\Debug\SDP.CSharp.Excercise4.AnonymousTypesAndLambdas.csproj.GenerateResource.Cache
+C:\Users\Kuba\Downloads\SDP.CSharp\SDP.CSharp\SDP.CSharp.Excercise4.AnonymousTypesAndLambdas\obj\Debug\SDP.CSharp.Excercise4.AnonymousTypesAndLambdas.exe
+C:\Users\Kuba\Downloads\SDP.CSharp\SDP.CSharp\SDP.CSharp.Excercise4.AnonymousTypesAndLambdas\obj\Debug\SDP.CSharp.Excercise4.AnonymousTypesAndLambdas.pdb

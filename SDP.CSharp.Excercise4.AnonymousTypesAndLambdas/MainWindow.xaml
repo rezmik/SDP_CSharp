@@ -6,7 +6,7 @@
         xmlns:local="clr-namespace:SDP.CSharp.Excercise4.AnonymousTypesAndLambdas"
         xmlns:model="clr-namespace:SDP.CSharp.Excercise4.AnonymousTypesAndLambdas.ViewModel"
         mc:Ignorable="d"
-        Title="MainWindow" Height="350" Width="525" WindowState="Maximized">
+        Title="MainWindow" Height="350" Width="573.422" WindowState="Maximized">
     <Grid>
         <Grid.RowDefinitions>
             <RowDefinition Height="Auto" />
@@ -14,8 +14,9 @@
         </Grid.RowDefinitions>
         <StackPanel Grid.Row="0" Orientation="Horizontal">
             <RadioButton Name="GroupCity" GroupName="groupBySelectors" Content="Group by City" Margin="5" Command="{Binding GroupingSelectionCommand}" CommandParameter="{x:Static model:GroupingSelection.ByCity}" />
-            <RadioButton Name="GroupDate" GroupName="groupBySelectors" Content="Group by SignIn Date" Margin="5" Command="{Binding GroupingSelectionCommand}" CommandParameter="{x:Static model:GroupingSelection.ByDate}" />
+            <RadioButton Name="GroupDate" GroupName="groupBySelectors" Content="Group by SignIn Date" Margin="5" Command="{Binding GroupingSelectionCommand}" CommandParameter="{x:Static model:GroupingSelection.ByDate}" Checked="GroupDate_Checked" />
             <RadioButton Name="GroupComp" GroupName="groupBySelectors" Content="Group by Company" Margin="5" Command="{Binding GroupingSelectionCommand}" CommandParameter="{x:Static model:GroupingSelection.ByCompany}" />
+            <RadioButton Name="GroupVowels" GroupName="groupBySelectors" Content="Group by Number Of Vowels" Margin="5" Command="{Binding GroupingSelectionCommand}" CommandParameter="{x:Static model:GroupingSelection.ByNumberOfVowels}" />
         </StackPanel>
         <TreeView Grid.Row="1" ItemsSource="{Binding DataSource}">
             <TreeView.ItemTemplate>

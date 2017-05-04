@@ -97,9 +97,21 @@ namespace SDP.CSharp.Excercise4.AnonymousTypesAndLambdas.ViewModel
                                               }
                                };
 
-                        // TODO: Excercise 1:
-                        // TODO: Add functionality "Group By Number of vowels in Person's name"
-                        //       Add proper entry in enum, UI and proper LINQ code inside DataSource property here
+                    // TODO: Excercise 1:
+                    // TODO: Add functionality "Group By Number of vowels in Person's name"
+                    //       Add proper entry in enum, UI and proper LINQ code inside DataSource property here
+                    case GroupingSelection.ByNumberOfVowels:
+                        return from p in mSource
+                               group p by p.NumberOfVowels into g
+                               select new
+                               {
+                                   Name = g.Key,
+                                   SubItems = from groupItem in g
+                                              select new
+                                              {
+                                                  Name = groupItem.Name
+                                              }
+                               };
                 }
 
                 // no grouping, return just a list of names
