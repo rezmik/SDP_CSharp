@@ -1,0 +1,222 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="SomePeople" xml:space="preserve">
+    <value>Clare Benjamin|Seychelles|21/04/2016|Vivamus Inc.
+Denise Wilkins|Malawi|25/04/2016|Fusce Aliquet Magna Institute
+Breanna Erickson|Guadeloupe|23/04/2016|Malesuada Vel LLP
+Cain Wilkins|Lithuania|22/04/2016|Est Nunc Incorporated
+Hillary Rogers|Kazakhstan|22/04/2016|Natoque Corp.
+Heather Burgess|Greece|26/04/2016|Consectetuer Adipiscing Inc.
+Kelsey Blair|Malaysia|20/04/2016|Mi Eleifend Inc.
+Fleur Lane|Slovenia|26/04/2016|Et Ltd
+Jasper Buchanan|Singapore|26/04/2016|In LLP
+Carson Mcdaniel|South Sudan|24/04/2016|Erat Company
+Arsenio Cummings|Guatemala|23/04/2016|Magna Nec Quam Associates
+Ann Cooper|Cyprus|21/04/2016|Curabitur Vel Lectus Associates
+Owen Meyer|San Marino|26/04/2016|Adipiscing Ligula Aenean Limited
+Sebastian Mills|Ukraine|22/04/2016|Id Incorporated
+Kay Schwartz|Oman|26/04/2016|Augue Company
+Kay Stanton|Afghanistan|23/04/2016|Feugiat Placerat Velit Consulting
+Nevada Walton|Jamaica|22/04/2016|Magnis Foundation
+Rhona Sweet|Svalbard and Jan Mayen Islands|26/04/2016|A Dui Ltd
+Jaime Schwartz|Burundi|23/04/2016|In Ltd
+Lani Knox|Gibraltar|26/04/2016|Vestibulum Neque Industries
+Bradley Wynn|American Samoa|22/04/2016|Nulla Consulting
+Cassidy Mosley|El Salvador|20/04/2016|Cursus A Ltd
+Justin Arnold|Sierra Leone|25/04/2016|Fusce Dolor Quam Incorporated
+Porter Combs|Holy See (Vatican City State)|26/04/2016|Sollicitudin Commodo Ipsum Foundation
+Davis Mckinney|Paraguay|26/04/2016|Eu Dui Corp.
+Murphy Small|Uzbekistan|20/04/2016|Nam PC
+Shelly Pugh|India|26/04/2016|Convallis Erat Eget Foundation
+Kirby Sears|American Samoa|25/04/2016|Praesent Eu Dui Industries
+Ariel Riley|Mayotte|21/04/2016|Semper Limited
+Skyler Holloway|Timor-Leste|24/04/2016|Metus Limited
+Dolan Graham|San Marino|22/04/2016|Et Arcu Foundation
+Winter Bean|Oman|23/04/2016|Mollis Non LLC
+Hyatt Berger|Belarus|24/04/2016|Mi Tempor Lorem Incorporated
+Desiree Rosales|Sweden|21/04/2016|Lobortis Tellus Industries
+Shaeleigh Woodard|Gabon|21/04/2016|Nisl Quisque Fringilla Inc.
+Luke Glass|French Southern Territories|21/04/2016|Eget Metus Eu Foundation
+Giacomo Parker|Iraq|22/04/2016|Interdum LLC
+Bruno Herring|Jamaica|20/04/2016|Egestas PC
+Castor Ray|Congo, the Democratic Republic of the|26/04/2016|Urna Corporation
+Murphy English|Isle of Man|24/04/2016|Vulputate Ullamcorper Industries
+Tate Moran|Jamaica|21/04/2016|Enim LLC
+Raymond Torres|Comoros|24/04/2016|Duis Gravida Praesent Limited
+Chadwick Pacheco|Denmark|20/04/2016|Fermentum Inc.
+Dante Velasquez|Bermuda|25/04/2016|Aliquam Erat Volutpat Inc.
+Mark Randall|Malawi|23/04/2016|Venenatis A PC
+Joel Trujillo|South Africa|25/04/2016|Ipsum Primis PC
+Uta Sharpe|Bouvet Island|26/04/2016|Fusce Incorporated
+Athena Orr|Ghana|22/04/2016|Aenean LLP
+Avram Holt|India|24/04/2016|Nunc Sollicitudin Associates
+Aline Oneal|Hong Kong|22/04/2016|Enim PC
+Jillian House|Greenland|26/04/2016|Auctor Velit PC
+Yvonne Crawford|Namibia|23/04/2016|Massa Vestibulum Accumsan Limited
+Renee Mcdonald|Bangladesh|20/04/2016|Sem Foundation
+Alana Johns|Saint Martin|24/04/2016|Et Nunc Corporation
+Oscar Stephenson|Congo, the Democratic Republic of the|21/04/2016|Sapien Molestie Orci Corp.
+Gloria Pope|French Southern Territories|23/04/2016|Erat Volutpat Inc.
+Brooke Huff|Argentina|24/04/2016|Curae; Phasellus Foundation
+Austin Shannon|Turks and Caicos Islands|20/04/2016|Mi Duis Incorporated
+Edan Dalton|Uzbekistan|25/04/2016|In Aliquet Consulting
+Nolan Burke|Bosnia and Herzegovina|23/04/2016|Elit Etiam Foundation
+Clarke Weber|Cambodia|25/04/2016|Penatibus Corp.
+Bernard Witt|Montenegro|22/04/2016|Eget Tincidunt Dui Limited
+Basia Romero|Kuwait|23/04/2016|Non Feugiat Company
+Cassandra Horton|United Kingdom (Great Britain)|26/04/2016|Cursus LLP
+Wynne Beard|Reunion|22/04/2016|Faucibus Ut Nulla Foundation
+Melinda Walsh|Belize|21/04/2016|Vel Mauris Integer LLC
+Ciaran Mckinney|Thailand|26/04/2016|Vel Arcu Ltd
+Hadassah Nunez|Ethiopia|25/04/2016|Adipiscing Ligula Aenean LLC
+Rooney Shelton|Cambodia|26/04/2016|Proin Corp.
+Yvette Calhoun|Brazil|21/04/2016|Vel Mauris Integer Incorporated
+Wylie Valencia|Sint Maarten|26/04/2016|Nonummy Fusce Limited
+Garrett Taylor|Bhutan|22/04/2016|Sem Magna Associates
+Plato Harrington|Eritrea|24/04/2016|Nam Ac Nulla Ltd
+Alyssa Frank|New Zealand|25/04/2016|Magna Cras LLP
+Pamela Valentine|Anguilla|20/04/2016|Lacus Ut Corp.
+Calvin Santos|Bermuda|21/04/2016|Odio Sagittis Semper Ltd
+Bert Aguilar|Rwanda|25/04/2016|Leo Incorporated
+Yen Beach|Samoa|24/04/2016|Augue Ac LLP
+Kellie Myers|Heard Island and Mcdonald Islands|21/04/2016|Aliquam Nec Enim Inc.
+Wyoming Cannon|South Sudan|23/04/2016|Magna A Neque PC
+Isaiah Emerson|Jordan|20/04/2016|Vulputate Mauris Industries
+Barbara Brewer|Cook Islands|24/04/2016|Nunc Corp.
+Cassidy Hansen|Latvia|26/04/2016|Ornare Foundation
+Victoria Chang|Bulgaria|21/04/2016|Mi Enim Inc.
+Lisandra Bush|China|25/04/2016|Id Erat Etiam Inc.
+Lilah Gardner|Isle of Man|26/04/2016|Tempus LLC
+Larissa Calderon|Equatorial Guinea|22/04/2016|Placerat Augue Corp.
+Roary Meyers|Netherlands|22/04/2016|Aenean Sed Industries
+Carly Stout|Saint Martin|21/04/2016|Dis Parturient LLP
+Ruth Dyer|Wallis and Futuna|20/04/2016|Nec Ligula Foundation
+Xaviera Flores|China|24/04/2016|Eget Company
+Preston Hudson|Macedonia|22/04/2016|Primis In Faucibus Limited
+Keith Giles|Israel|22/04/2016|Sodales Corp.
+Kaye Abbott|Fiji|23/04/2016|Vivamus Consulting
+Lesley Mcmahon|Ethiopia|20/04/2016|Eget Laoreet Posuere Foundation
+Yael Battle|Puerto Rico|20/04/2016|Malesuada Fames LLC
+Raya Ingram|Trinidad and Tobago|21/04/2016|Gravida Sit LLC
+Cally Vega|Marshall Islands|25/04/2016|Sed Hendrerit A Consulting
+Kyle Humphrey|Cyprus|21/04/2016|Euismod Et Commodo Company
+Mannix Tate|Mauritania|25/04/2016|Ridiculus Corp.</value>
+  </data>
+</root>

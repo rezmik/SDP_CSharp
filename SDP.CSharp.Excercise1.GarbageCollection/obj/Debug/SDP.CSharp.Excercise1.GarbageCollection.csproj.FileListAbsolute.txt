@@ -1,0 +1,6 @@
+C:\Users\piotr.wilczak\Documents\Visual Studio 2015\Projects\SDP\SDP.CSharp\SDP.CSharp.Excercise1.GarbageCollection\bin\Debug\SDP.CSharp.Excercise1.GarbageCollection.exe.config
+C:\Users\piotr.wilczak\Documents\Visual Studio 2015\Projects\SDP\SDP.CSharp\SDP.CSharp.Excercise1.GarbageCollection\bin\Debug\SDP.CSharp.Excercise1.GarbageCollection.exe
+C:\Users\piotr.wilczak\Documents\Visual Studio 2015\Projects\SDP\SDP.CSharp\SDP.CSharp.Excercise1.GarbageCollection\bin\Debug\SDP.CSharp.Excercise1.GarbageCollection.pdb
+C:\Users\piotr.wilczak\Documents\Visual Studio 2015\Projects\SDP\SDP.CSharp\SDP.CSharp.Excercise1.GarbageCollection\obj\Debug\SDP.CSharp.Excercise1.GarbageCollection.csprojResolveAssemblyReference.cache
+C:\Users\piotr.wilczak\Documents\Visual Studio 2015\Projects\SDP\SDP.CSharp\SDP.CSharp.Excercise1.GarbageCollection\obj\Debug\SDP.CSharp.Excercise1.GarbageCollection.exe
+C:\Users\piotr.wilczak\Documents\Visual Studio 2015\Projects\SDP\SDP.CSharp\SDP.CSharp.Excercise1.GarbageCollection\obj\Debug\SDP.CSharp.Excercise1.GarbageCollection.pdb

@@ -1,0 +1,28 @@
+﻿<Window x:Class="SDP.CSharp.Excercise4.AnonymousTypesAndLambdas.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:SDP.CSharp.Excercise4.AnonymousTypesAndLambdas"
+        xmlns:model="clr-namespace:SDP.CSharp.Excercise4.AnonymousTypesAndLambdas.ViewModel"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="350" Width="525" WindowState="Maximized">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto" />
+            <RowDefinition Height="*" />
+        </Grid.RowDefinitions>
+        <StackPanel Grid.Row="0" Orientation="Horizontal">
+            <RadioButton Name="GroupCity" GroupName="groupBySelectors" Content="Group by City" Margin="5" Command="{Binding GroupingSelectionCommand}" CommandParameter="{x:Static model:GroupingSelection.ByCity}" />
+            <RadioButton Name="GroupDate" GroupName="groupBySelectors" Content="Group by SignIn Date" Margin="5" Command="{Binding GroupingSelectionCommand}" CommandParameter="{x:Static model:GroupingSelection.ByDate}" />
+            <RadioButton Name="GroupComp" GroupName="groupBySelectors" Content="Group by Company" Margin="5" Command="{Binding GroupingSelectionCommand}" CommandParameter="{x:Static model:GroupingSelection.ByCompany}" />
+        </StackPanel>
+        <TreeView Grid.Row="1" ItemsSource="{Binding DataSource}">
+            <TreeView.ItemTemplate>
+                <HierarchicalDataTemplate ItemsSource="{Binding SubItems}">
+                    <TextBlock Text="{Binding Name}"></TextBlock>
+                </HierarchicalDataTemplate>
+            </TreeView.ItemTemplate>
+        </TreeView>
+    </Grid>
+</Window>

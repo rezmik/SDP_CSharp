@@ -1,0 +1,6 @@
+C:\Users\piotr.wilczak\Documents\Visual Studio 2015\Projects\SDP\SDP.CSharp\SDP.CSharp.Excercise3.IEnumerable\bin\Debug\SDP.CSharp.Excercise3.IEnumerable.exe.config
+C:\Users\piotr.wilczak\Documents\Visual Studio 2015\Projects\SDP\SDP.CSharp\SDP.CSharp.Excercise3.IEnumerable\bin\Debug\SDP.CSharp.Excercise3.IEnumerable.exe
+C:\Users\piotr.wilczak\Documents\Visual Studio 2015\Projects\SDP\SDP.CSharp\SDP.CSharp.Excercise3.IEnumerable\bin\Debug\SDP.CSharp.Excercise3.IEnumerable.pdb
+C:\Users\piotr.wilczak\Documents\Visual Studio 2015\Projects\SDP\SDP.CSharp\SDP.CSharp.Excercise3.IEnumerable\obj\Debug\SDP.CSharp.Excercise3.IEnumerable.csprojResolveAssemblyReference.cache
+C:\Users\piotr.wilczak\Documents\Visual Studio 2015\Projects\SDP\SDP.CSharp\SDP.CSharp.Excercise3.IEnumerable\obj\Debug\SDP.CSharp.Excercise3.IEnumerable.exe
+C:\Users\piotr.wilczak\Documents\Visual Studio 2015\Projects\SDP\SDP.CSharp\SDP.CSharp.Excercise3.IEnumerable\obj\Debug\SDP.CSharp.Excercise3.IEnumerable.pdb
